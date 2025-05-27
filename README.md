@@ -1,6 +1,6 @@
 # Est Dev Portfolio
 
-![Portfolio Screenshot](https://iili.io/3wNoI1a.md.png)
+
 
 A responsive portfolio website showcasing my skills, projects, and contact information as a Full Stack Developer.
 
